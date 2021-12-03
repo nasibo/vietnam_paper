@@ -9,7 +9,8 @@ library(rqpd)
 library(uqr)
 library(stargazer)
 
-setwd("C:/Users/snowak/Desktop/vietnam_paper/data")
+## set working directory
+setwd("your_working_directory")
 
 ########################################################
 ## IMPORT DATA
